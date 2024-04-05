@@ -2,4 +2,4 @@
 
 [Breast Cancer Dashboard](https://ragib-cancer-dashboard.streamlit.app/)
 
-![Alt text](/Screenshot 2024-04-05 062812.png?raw=true "Optional Title")
+![Alt text](/SS BCP.jpg?raw=true "Screenshot")
