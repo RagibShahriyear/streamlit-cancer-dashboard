@@ -2,5 +2,4 @@
 
 [Breast Cancer Dashboard](https://ragib-cancer-dashboard.streamlit.app/)
 
-
-![SS BCP](https://github.com/RagibShahriyear/streamlit-cancer-dashboard/assets/85870767/41d7a66d-3e2e-4c6c-a3a7-4b6f31f91e8a)
+![SCP animated](https://github.com/RagibShahriyear/streamlit-cancer-dashboard/assets/85870767/fd971d96-c5b2-48a0-813b-4c77ac151f6e)
